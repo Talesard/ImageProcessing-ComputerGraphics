@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>tomogram_visualizer_QTClass</class>
+ <widget class="QWidget" name="tomogram_visualizer_QTClass" >
+  <property name="objectName" >
+   <string notr="true">tomogram_visualizer_QTClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>tomogram_visualizer_QT</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="tomogram_visualizer_QT.qrc"/>
+ </resources>
+ <connections/>
+</UI>
