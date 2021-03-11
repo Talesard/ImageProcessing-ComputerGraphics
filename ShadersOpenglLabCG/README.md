@@ -1,7 +1,9 @@
 # Computer Graphics (spring 2020) Lab: Shaders and OpenGL
 ***
-Qt
-  
+Qt 5.14
+
+![shaders](shaders_demo.jpg)    
+
 Управление:   
 
 W/S - вперед/назад   
